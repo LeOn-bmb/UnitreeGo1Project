@@ -7,6 +7,6 @@
 
 •	Python 3.10.12 
 
-•	ROS2 Humble	-> https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
+•	ROS2 Humble
 
 •	Gazebo version 11.10.2 (Sim)
