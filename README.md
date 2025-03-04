@@ -11,4 +11,4 @@
 
 •	ROS2 Humble
 
-•	Gazebo version 11.10.2 (Sim)
+•	Gazebo Sim, version 6.17.0
