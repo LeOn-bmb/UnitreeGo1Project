@@ -12,3 +12,9 @@
 •	ROS2 Humble
 
 •	Gazebo Sim, version 6.17.0 => Fortress
+
+•	Docker28.0.1
+
+• Ubuntu 18.04
+
+•	ROS1 Melodic
