@@ -11,4 +11,4 @@
 
 •	ROS2 Humble
 
-•	Gazebo Sim, version 6.17.0
+•	Gazebo Sim, version 6.17.0 => Fortress
