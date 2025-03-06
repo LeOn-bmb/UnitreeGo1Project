@@ -23,4 +23,4 @@
 
 •	ROS1 Melodic
 
-• Gazebo 9.0.0
+• Gazebo 9.19.0
