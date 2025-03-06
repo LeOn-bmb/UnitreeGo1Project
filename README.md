@@ -3,7 +3,7 @@
 # Dependencies
 •	WSL 2.4.11.0
 
-•	Ubuntu 22.04.5 LTS
+•	Ubuntu 22.04
 
 •	Python 3.10.12 
 
