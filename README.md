@@ -17,4 +17,10 @@
 
 • Ubuntu 18.04
 
+• Python 3.8.0
+
+• G++, Gcc 7.5.0
+
 •	ROS1 Melodic
+
+• Gazebo 9.0.0
