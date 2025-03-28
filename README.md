@@ -17,4 +17,6 @@
 
 • GLUT 2.8.1-3
 
-•	??Ultralytics(YOLO) 8.3.94
+•	??Ultralytics(YOLOv8) 8.3.94
+
+• ??numpy 1.24.4
