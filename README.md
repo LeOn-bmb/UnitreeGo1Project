@@ -5,22 +5,16 @@
 
 •	Ubuntu 22.04
 
-•	Python 3.10.12 
+• VcXsrv
 
-• Cmake 3.22.1
+•	Python 3.8.0
 
-•	ROS2 Humble
+• OpenCV 4.11.0.86 (cv2)
 
-•	Gazebo Sim, version 6.17.0 => Fortress
+• CMake 3.10.2
 
-•	Docker28.0.1
+• ??OpenGL 4.5
 
-• Ubuntu 18.04
+• GLUT 2.8.1-3
 
-• Python 3.8.0
-
-• G++, Gcc 7.5.0
-
-•	ROS1 Melodic
-
-• Gazebo 9.0.0
+•	??Ultralytics(YOLO) 8.3.94
